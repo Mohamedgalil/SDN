@@ -9,9 +9,6 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 import org.opendaylight.controller.configuration.ConfigurationObject;
 
-import com.sdn.ass.control.Operator;
-import com.sdn.ass.control.RequestType;
-
 /**
  * The Interface provides methods to manipulate user configured string. - type:
  * POWER(1) - ENERGY(0) - value: 500 - Operator: “<" or “>=" - UDP-Port: “50001"
